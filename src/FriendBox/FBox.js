@@ -78,5 +78,4 @@ height: 100%;
 min-height: 100vh;
 color: pink;
 background-color: #2b6777;
-
 `;
